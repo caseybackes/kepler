@@ -1,6 +1,10 @@
 ## NASA's Kepler Space Telescope
 ### Data Processing and Analysis
 
+![fig][fig]
+
+[fig]: plots/keplercover.png
+
 As a bright-eyed undergrad with no idea what "programming" meant, nor "statistics" or "data analysis", I was understandably intimidated when 
 I started the "Scientific Data Analysis with Advanced Statistics" course at CU Boulder. But over the course of one semester I quickly found 
 a visceral interest in scientific programming in python (with a few early "easy wins" to boost my confidence). My time in that course culminated in 
