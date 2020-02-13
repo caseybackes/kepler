@@ -13,3 +13,8 @@ an independent project aimed at a programmatic approach to statistical analysis 
 In the process, I learned the basics of object-oriented programming in python, applied computational statistics, data cleaning and processing, exploratory data analysis, model fitting, and data visualization. I used common library packages like `matplotlib`, `numpy`, and a few others.  While I didn’t discover an exoplanet that the Kepler Science Team didn’t already find, some interesting findings did come from this work. Namely, a binary star system with a highly eccentric companion star (the one orbiting the heavier star) which exhibited a fascinating “elastic bounce” as it suffered the immense tidal forces of the host star – a phenomenon call “star quakes” (like earth-quakes). I followed up with the initial discovery two years later when the signal was scheduled to be detected again, and took observational data from the 24-inch research telescope – which turned out to not be nearly as sensitive as required for such an observation. But at this point, I was already addicted to the process of data-driven discovery. 
 
 This repo represents the earliest epoch in my data science saga. 
+
+
+![fig2][fig2]
+
+[fig2]: plots/5059.01_figure1.5.png | width=10
